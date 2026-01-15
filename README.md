@@ -3,7 +3,7 @@
 This repository contains the code and experimental scripts for the paper:
 
 **Stance-Aware Hierarchical Structural Weighting for Social Media Rumor Detection**  
-(Chinese manuscript version: *基于立场感知与层级结构加权的社交媒体谣言检测方法*)
+
 
 ---
 
@@ -19,9 +19,9 @@ This project proposes a **stance-aware** and **depth-sensitive** rumor detection
 We provide reproducible scripts for experiments on:
 - **Twitter15 / Twitter16** (cross-dataset evaluation)
 - **DRWeibo** (in-domain evaluation, mean±std over multiple seeds)
-- 
----
-data link: https://github.com/Derrickqi/Rumor-detection/releases
+- **Data link**: https://github.com/Derrickqi/Rumor-detection/releases
+
+
 ---
 
 ## 📌 Key Features
