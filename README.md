@@ -19,7 +19,9 @@ This project proposes a **stance-aware** and **depth-sensitive** rumor detection
 We provide reproducible scripts for experiments on:
 - **Twitter15 / Twitter16** (cross-dataset evaluation)
 - **DRWeibo** (in-domain evaluation, mean±std over multiple seeds)
-
+- 
+---
+data link: https://github.com/Derrickqi/Rumor-detection/releases
 ---
 
 ## 📌 Key Features
